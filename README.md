@@ -1,4 +1,4 @@
-file:///C:/Users/Charles%20Arbol/Downloads/ARBOL_Profile%20Banner.png
+<img width="1280" height="320" alt="ARBOL_Profile Banner" src="https://github.com/user-attachments/assets/14b24dd0-03a3-4ecf-9fc2-f980675cbc68" />
 
 # Charles Arbol | Construct Atelier, Shaping the future, one space at a time
 
