@@ -1,4 +1,4 @@
-![](![](photo link)
+file:///C:/Users/Charles%20Arbol/Downloads/ARBOL_Profile%20Banner.png
 
 # Charles Arbol | Construct Atelier, Shaping the future, one space at a time
 
